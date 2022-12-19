@@ -11,7 +11,7 @@ The core goal of all of these projects is the same: to use [ZK-SNARK](https://vi
 
 ## Overview (in chart form)
 
-![](../../../../images/zkevm/chart.png)
+![](../images/zkevm/chart.png)
 
 ## Type 1 (fully Ethereum-equivalent)
 
